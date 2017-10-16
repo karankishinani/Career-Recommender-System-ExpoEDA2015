@@ -1,0 +1,49 @@
+C:\Users\Kiwi\Documents\Otros\EXPOEDA\EXPOEDA\bin\Debug\EXPOEDA.exe
+C:\Users\Kiwi\Documents\Otros\EXPOEDA\EXPOEDA\bin\Debug\EXPOEDA.pdb
+C:\Users\Kiwi\Documents\Otros\EXPOEDA\EXPOEDA\bin\Debug\EXPOEDA.xml
+C:\Users\Kiwi\Documents\Otros\EXPOEDA\EXPOEDA\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Kiwi\Documents\Otros\EXPOEDA\EXPOEDA\obj\Debug\WindowsApplication1.Cuestionario.resources
+C:\Users\Kiwi\Documents\Otros\EXPOEDA\EXPOEDA\obj\Debug\WindowsApplication1.Main.resources
+C:\Users\Kiwi\Documents\Otros\EXPOEDA\EXPOEDA\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Kiwi\Documents\Otros\EXPOEDA\EXPOEDA\obj\Debug\EXPOEDA.vbproj.GenerateResource.Cache
+C:\Users\Kiwi\Documents\Otros\EXPOEDA\EXPOEDA\obj\Debug\EXPOEDA.exe
+C:\Users\Kiwi\Documents\Otros\EXPOEDA\EXPOEDA\obj\Debug\EXPOEDA.xml
+C:\Users\Kiwi\Documents\Otros\EXPOEDA\EXPOEDA\obj\Debug\EXPOEDA.pdb
+C:\Users\Kiwi\Documents\Otros\EXPOEDA\EXPOEDA\obj\Debug\WindowsApplication1.Resultados.resources
+C:\Users\Kiwi\Dropbox\universidad\trabajos en grupo\Herramientas Aplicadas IA\Expo EDA\EXPOEDA\EXPOEDA\obj\Debug\EXPOEDA.exe
+C:\Users\Kiwi\Dropbox\universidad\trabajos en grupo\Herramientas Aplicadas IA\Expo EDA\EXPOEDA\EXPOEDA\obj\Debug\EXPOEDA.xml
+C:\Users\Kiwi\Dropbox\universidad\trabajos en grupo\Herramientas Aplicadas IA\Expo EDA\EXPOEDA\EXPOEDA\obj\Debug\EXPOEDA.pdb
+C:\Users\Kiwi\Dropbox\universidad\trabajos en grupo\Herramientas Aplicadas IA\Expo EDA\EXPOEDA\EXPOEDA\bin\Debug\EXPOEDA.exe
+C:\Users\Kiwi\Dropbox\universidad\trabajos en grupo\Herramientas Aplicadas IA\Expo EDA\EXPOEDA\EXPOEDA\bin\Debug\EXPOEDA.pdb
+C:\Users\Kiwi\Dropbox\universidad\trabajos en grupo\Herramientas Aplicadas IA\Expo EDA\EXPOEDA\EXPOEDA\bin\Debug\EXPOEDA.xml
+C:\Users\Kiwi\Dropbox\universidad\trabajos en grupo\Herramientas Aplicadas IA\Expo EDA\EXPOEDA\EXPOEDA\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Kiwi\Dropbox\universidad\trabajos en grupo\Herramientas Aplicadas IA\Expo EDA\EXPOEDA\EXPOEDA\obj\Debug\WindowsApplication1.Cuestionario.resources
+C:\Users\Kiwi\Dropbox\universidad\trabajos en grupo\Herramientas Aplicadas IA\Expo EDA\EXPOEDA\EXPOEDA\obj\Debug\WindowsApplication1.Main.resources
+C:\Users\Kiwi\Dropbox\universidad\trabajos en grupo\Herramientas Aplicadas IA\Expo EDA\EXPOEDA\EXPOEDA\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Kiwi\Dropbox\universidad\trabajos en grupo\Herramientas Aplicadas IA\Expo EDA\EXPOEDA\EXPOEDA\obj\Debug\WindowsApplication1.Resultados.resources
+C:\Users\Kiwi\Dropbox\universidad\trabajos en grupo\Herramientas Aplicadas IA\Expo EDA\EXPOEDA\EXPOEDA\obj\Debug\EXPOEDA.vbproj.GenerateResource.Cache
+C:\Users\eadmin\Dropbox\HAIA - GRUPAL\Expo EDA\EXPOEDA copy\EXPOEDA\obj\Debug\EXPOEDA.exe
+C:\Users\eadmin\Dropbox\HAIA - GRUPAL\Expo EDA\EXPOEDA copy\EXPOEDA\obj\Debug\EXPOEDA.xml
+C:\Users\eadmin\Dropbox\HAIA - GRUPAL\Expo EDA\EXPOEDA copy\EXPOEDA\obj\Debug\EXPOEDA.pdb
+C:\Users\eadmin\Dropbox\HAIA - GRUPAL\Expo EDA\EXPOEDA copy\EXPOEDA\bin\Debug\EXPOEDA.exe
+C:\Users\eadmin\Dropbox\HAIA - GRUPAL\Expo EDA\EXPOEDA copy\EXPOEDA\bin\Debug\EXPOEDA.pdb
+C:\Users\eadmin\Dropbox\HAIA - GRUPAL\Expo EDA\EXPOEDA copy\EXPOEDA\bin\Debug\EXPOEDA.xml
+C:\Users\eadmin\Dropbox\HAIA - GRUPAL\Expo EDA\EXPOEDA copy\EXPOEDA\obj\Debug\EXPOEDA.vbproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\karankishinani\Dropbox\UTP\Herr. Aplic. IA\Expo EDA\EXPOEDA copy\EXPOEDA\bin\Debug\EXPOEDA.exe
+\\vmware-host\Shared Folders\karankishinani\Dropbox\UTP\Herr. Aplic. IA\Expo EDA\EXPOEDA copy\EXPOEDA\bin\Debug\EXPOEDA.pdb
+\\vmware-host\Shared Folders\karankishinani\Dropbox\UTP\Herr. Aplic. IA\Expo EDA\EXPOEDA copy\EXPOEDA\bin\Debug\EXPOEDA.xml
+\\vmware-host\Shared Folders\karankishinani\Dropbox\UTP\Herr. Aplic. IA\Expo EDA\EXPOEDA copy\EXPOEDA\obj\Debug\EXPOEDA.Cuestionario.resources
+\\vmware-host\Shared Folders\karankishinani\Dropbox\UTP\Herr. Aplic. IA\Expo EDA\EXPOEDA copy\EXPOEDA\obj\Debug\EXPOEDA.Main.resources
+\\vmware-host\Shared Folders\karankishinani\Dropbox\UTP\Herr. Aplic. IA\Expo EDA\EXPOEDA copy\EXPOEDA\obj\Debug\EXPOEDA.Resources.resources
+\\vmware-host\Shared Folders\karankishinani\Dropbox\UTP\Herr. Aplic. IA\Expo EDA\EXPOEDA copy\EXPOEDA\obj\Debug\EXPOEDA.Resultados.resources
+\\vmware-host\Shared Folders\karankishinani\Dropbox\UTP\Herr. Aplic. IA\Expo EDA\EXPOEDA copy\EXPOEDA\obj\Debug\EXPOEDA.vbproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\karankishinani\Dropbox\UTP\Herr. Aplic. IA\Expo EDA\EXPOEDA copy\EXPOEDA\obj\Debug\EXPOEDA.exe
+\\vmware-host\Shared Folders\karankishinani\Dropbox\UTP\Herr. Aplic. IA\Expo EDA\EXPOEDA copy\EXPOEDA\obj\Debug\EXPOEDA.xml
+\\vmware-host\Shared Folders\karankishinani\Dropbox\UTP\Herr. Aplic. IA\Expo EDA\EXPOEDA copy\EXPOEDA\obj\Debug\EXPOEDA.pdb
+C:\Users\eadmin\Dropbox\HAIA - GRUPAL\Expo EDA\EXPOEDA copy\EXPOEDA\obj\Debug\EXPOEDA.Cuestionario.resources
+C:\Users\eadmin\Dropbox\HAIA - GRUPAL\Expo EDA\EXPOEDA copy\EXPOEDA\obj\Debug\EXPOEDA.Main.resources
+C:\Users\eadmin\Dropbox\HAIA - GRUPAL\Expo EDA\EXPOEDA copy\EXPOEDA\obj\Debug\EXPOEDA.Resources.resources
+C:\Users\eadmin\Dropbox\HAIA - GRUPAL\Expo EDA\EXPOEDA copy\EXPOEDA\obj\Debug\EXPOEDA.Resultados.resources
+C:\Users\eadmin\Desktop\EXPOEDA copy\EXPOEDA\obj\Debug\EXPOEDA.exe
+C:\Users\eadmin\Desktop\EXPOEDA copy\EXPOEDA\obj\Debug\EXPOEDA.xml
+C:\Users\eadmin\Desktop\EXPOEDA copy\EXPOEDA\obj\Debug\EXPOEDA.pdb
